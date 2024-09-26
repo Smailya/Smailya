@@ -9,6 +9,9 @@ wanna dive deeper into my coding poetry, take a look at:
 - [![Website](https://img.shields.io/badge/Website-My%20Website-blue?style=for-the-badge&logo=laptop&logoColor=white)](https://smailya.github.io/My-Website/) 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-cisse/)
 
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Smailya&theme=tokyonight" alt="mystreak"/>
+
 <!--
 **Smailya/Smailya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
