@@ -4,8 +4,11 @@
 ## I just spotted your amazing smile, it’s like your face's perfect accessory. Seriously, you should wear it more often; it looks like it was custom-made for you <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/263a_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/263a_fe0f/512.gif" alt="☺" width="32" height="32">
 </picture>
 
-### I'm a full-stack developer, but you can call me a code poet because I write lines that rhyme with software!
-Check out my [website](https://smailya.github.io/My-Website/) to learn more about me.
+### I'm a full-stack developer, but you can call me a code poet because I write lines that rhyme with softwares!
+wanna dive deeper into my coding poetry, take a look at:
+- [![Website](https://img.shields.io/badge/Website-My%20Website-blue?style=for-the-badge&logo=laptop&logoColor=white)](https://smailya.github.io/My-Website/) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-cisse/)
+
 <!--
 **Smailya/Smailya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
