@@ -12,7 +12,6 @@ wanna dive deeper into my coding poetry, take a look at:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smailya&theme=tokyonight" alt="mystreak"/>
 
 <!--
-
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-cisse/)
 
 **Smailya/Smailya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
