@@ -7,7 +7,8 @@
 ### I'm a full-stack developer, but you can call me a code poet because I write lines that rhyme with softwares!
 wanna dive deeper into my coding poetry, take a look at:
 
-- [[![GitHub](https://img.icons8.com/?size=100&id=3685&format=png&color=000000)](https://github.com/](https://github.com/Smailya)
+-[![Website](https://img.shields.io/badge/Website-My%20Website-blue?style=for-the-badge&logo=laptop&logoColor=white)](https://smailya.github.io/My-Website/)
+
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smailya&theme=tokyonight" alt="mystreak"/>
