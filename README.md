@@ -7,7 +7,6 @@
 ### I'm a full-stack developer, but you can call me a code poet because I write lines that rhyme with softwares!
 wanna dive deeper into my coding poetry, take a look at:
 
-[![GitHub](https://img.icons8.com/?size=100&id=3685&format=png&color=000000)](https://smailya.github.io/My-Website/)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-cisse/)
 
 
