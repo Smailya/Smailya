@@ -5,7 +5,8 @@
 </picture>
 
 ### I'm a full-stack developer, but you can call me a code poet because I write lines that rhyme with softwares!
-wanna dive deeper into my coding poetry, you are more than welcome:
+### wanna dive deeper into my Robotics projects 🤖 you are more than welcome:
+https://app.roboflow.com/robotics-vision
 
 
 
