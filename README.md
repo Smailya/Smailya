@@ -1,12 +1,11 @@
 # Hi <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture>
 
-## I just spotted your amazing smile, it’s like your face's perfect accessory. Seriously, you should wear it more often; it looks like it was custom-made for you <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/263a_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/263a_fe0f/512.gif" alt="☺" width="32" height="32">
+## How can I help you <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/263a_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/263a_fe0f/512.gif" alt="☺" width="32" height="32">
 </picture>
 
-### I'm a full-stack developer, but you can call me a code poet because I write lines that rhyme with softwares!
-### wanna dive deeper into my Robotics projects you are more than welcome:
-https://app.roboflow.com/robotics-vision
+### I'm a full-stack Engineer, but you can call me a code ninja because I ninjatize applications!
+
 
 
 
