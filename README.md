@@ -4,7 +4,7 @@
 ## How can I help you <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/263a_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/263a_fe0f/512.gif" alt="☺" width="32" height="32">
 </picture>
 
-### I'm a full-stack Engineer, but you can call me a code ninja because I ninjatize applications!
+### I'm a full-stack Engineer, but you can call me a code ninja because I ninjatize your needs!
 
 
 
